@@ -1,7 +1,7 @@
 ![](banner.png)
 
 # Hey, I'm Satya 👋
-🔭 I’m currently working as Full stack developer<br>🌱 I’m currently learning AI & ML<br>👨‍💻 Coding, learning and sometimes film buff<br>📍 Odia in Bengaluru
+🔭 I’m currently working as Full stack developer<br> 🌱 I’m currently learning AI & ML<br> 🌐 My ![website](https://satya00089.github.io/portfolio/) 👨‍💻 Coding, learning and sometimes film buff<br>📍 Odia in Bengaluru
 
 
 ## 🌐 Socials:
