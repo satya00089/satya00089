@@ -1,4 +1,4 @@
-![](banner.png)
+[![Next Zen](next-zen.dev.png)](https://next-zen.dev)
 
 # Hey, I'm Satya 👋
 
