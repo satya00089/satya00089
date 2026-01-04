@@ -3,7 +3,7 @@
 # Hey, I'm Satya 👋
 
 **Full-stack developer** — building things that ship.  
-🔭 I’m currently working as a **Full-stack Developer** · 🌱 learning **AI & ML** · 🎬 sometimes a film buff · 📍 **Odia in Bengaluru**  
+🔭 I’m currently working as a **Full-stack Developer** · 🌱 learning **AI & ML** · 🎬 sometimes a film buff · 📍 **Bengaluru**  
 🌐 [Portfolio](https://satya00089.github.io/portfolio/) · ✉️ <satyasubudhi089@gmail.com>
 
 ---
