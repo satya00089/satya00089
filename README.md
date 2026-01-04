@@ -1,4 +1,4 @@
-![](banner.png)
+![](next-zen.dev.png)
 
 # Hey, I'm Satya 👋
 
