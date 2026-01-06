@@ -1,4 +1,4 @@
-[![Next Zen](next-zen.dev.png)](https://next-zen.dev)
+[![Tic-Tac-Toe](https://raw.githubusercontent.com/satya00089/tic-tac-toe/main/public/tic-tac-toe.png)](https://satya00089.github.io/tic-tac-toe/)
 
 # Hey, I'm Satya 👋
 
