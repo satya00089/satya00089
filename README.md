@@ -32,8 +32,10 @@ I write code, learn new tools, and enjoy building useful and delightful products
 
 ---
 
-## 📊 GitHub stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satya00089&label=Profile%20views&color=0e75b6&style=flat" alt="satya00089" /> </p>
+
+## 📊 GitHub stats
+
 ![](https://github-readme-stats.vercel.app/api?username=satya00089&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=satya00089&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=satya00089&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
