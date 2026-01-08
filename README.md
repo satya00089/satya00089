@@ -32,8 +32,6 @@ I write code, learn new tools, and enjoy building useful and delightful products
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satya00089&label=Profile%20views&color=0e75b6&style=flat" alt="satya00089" /> </p>
-
 ## 📊 GitHub stats
 
 ![](https://github-readme-stats.vercel.app/api?username=satya00089&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
@@ -58,3 +56,5 @@ I write code, learn new tools, and enjoy building useful and delightful products
 - LinkedIn: https://linkedin.com/in/satya-subudhi
 
 ---
+#### Thanks for the visit
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satya00089&label=Profile%20views&color=0e75b6&style=flat" alt="satya00089" /> </p>
