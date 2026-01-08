@@ -15,6 +15,7 @@ I write code, learn new tools, and enjoy building useful and delightful products
 - 🔭 Building web apps with **React / Node / FastAPI**  
 - ⚙️ Running projects on **Vercel / AWS / Azure**  
 - 🧠 Exploring model fine-tuning, ML pipelines, and MLOps
+- 📸 [Moments Through My Lens](https://photos.google.com/share/AF1QipNOdZHlXMpxhUmNx3ixc564gTdXRRWO4b6RKkh9KnQWGEEL1qKBqq_wofYMksV7PQ?key=V3p6bTZqZVlhQlVLakd1c29CR0xoNmVoeHcxVndn)
 
 ---
 
