@@ -35,9 +35,9 @@ I write code, learn new tools, and enjoy building useful and delightful products
 
 ## 📊 GitHub stats
 
-![](https://github-readme-stats.vercel.app/api?username=satya00089&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satya00089&theme=github_dark)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=satya00089&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=satya00089&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satya00089&theme=github_dark)
 
 ### 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=satya00089&theme=radical&no-frame=true&no-bg=false&margin-w=4)
