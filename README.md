@@ -1,61 +1,37 @@
-[![Next Zen](next-zen.dev.png)](https://next-zen.dev)
+# Hey, I’m Satya.
 
-# Hey, I'm Satya 👋
+I build thoughtful web products for learning, system design, and cloud infrastructure.
 
-**Full-stack developer** — building things that ship.  
-🔭 I’m currently working as a **Full-stack Developer** · 🌱 learning **AI & ML** · 🎬 sometimes a film buff · 📍 **Bengaluru**  
-🌐 [Portfolio](https://satya00089.github.io/portfolio/) · ✉️ <satyasubudhi089@gmail.com>
+[Portfolio](https://satya00089.github.io/portfolio/) · [LinkedIn](https://linkedin.com/in/satya-subudhi) · [Email](mailto:satyasubudhi089@gmail.com)
 
----
+## Selected work
 
-## About me
-I write code, learn new tools, and enjoy building useful and delightful products. I focus on modern web stacks, backend APIs, and experimenting with ML pipelines. I love open source, problem solving, and good storytelling (whether in code or on screen).
+### Learn Algo
 
-**Current highlights**
-- 🔭 Building web apps with **React / Node / FastAPI**  
-- ⚙️ Running projects on **Vercel / AWS / Azure**  
-- 🧠 Exploring model fine-tuning, ML pipelines, and MLOps
-- 📸 [Moments Through My Lens](https://photos.google.com/share/AF1QipNOdZHlXMpxhUmNx3ixc564gTdXRRWO4b6RKkh9KnQWGEEL1qKBqq_wofYMksV7PQ?key=V3p6bTZqZVlhQlVLakd1c29CR0xoNmVoeHcxVndn)
+An interactive way to explore algorithms, data structures, and machine learning—step through the logic and see how it works.
 
----
+[Live demo](https://learn-algo.com/) · [Source code](https://github.com/satya00089/learn-algo)
 
-## 🌐 Socials
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://satya00089.github.io/portfolio/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satya.subudhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satya-subudhi) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyasubudhi089@gmail.com)
+<a href="https://learn-algo.com/"><img src="assets/profile/learn-algo.png" alt="Current Learn Algo homepage with its interactive algorithm visualizer" width="100%"></a>
 
----
+### Diagramwise
 
-## 💻 Tech stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+Design system architectures, understand the trade-offs, and turn review feedback into stronger designs.
 
----
+[Live demo](https://diagramwise.com/) · [Source code](https://github.com/satya00089/diagrammatic)
 
-## 📊 GitHub stats
+<a href="https://diagramwise.com/"><img src="assets/profile/diagramwise.png" alt="Current Diagramwise homepage showing its system design workspace" width="100%"></a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satya00089&theme=github_dark)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=satya00089&theme=dark&hide_border=true)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satya00089&theme=github_dark)
+### Orchestrator
 
-### 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=satya00089&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+Plan cloud infrastructure visually, review the resource graph, and export Terraform when the design is ready.
 
----
+[Live demo](https://orchestrator.next-zen.dev/)
 
-## 🎯 Goals
-- Ship more end-to-end projects combining web + ML.  
-- Contribute to meaningful open source (docs, bug fixes, features).  
-- Learn model interpretability and MLOps best practices.
+<a href="https://orchestrator.next-zen.dev/"><img src="assets/profile/orchestrator.png" alt="Current Orchestrator homepage showing its visual infrastructure planning experience" width="100%"></a>
 
----
+## A little about me
 
-## 📫 Want to work / chat?
-- Portfolio: https://satya00089.github.io/portfolio/  
-- Email: satyasubudhi089@gmail.com  
-- LinkedIn: https://linkedin.com/in/satya-subudhi
+Senior Full-stack developer working across React, TypeScript, Python, FastAPI, AI Agents and cloud platforms.
 
----
-#### Thanks for the visit
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satya00089&label=Profile%20views&color=0e75b6&style=flat" alt="satya00089" /> </p>
+More: [Portfolio](https://satya00089.github.io/portfolio/) · [Photos](https://photos.google.com/share/AF1QipNOdZHlXMpxhUmNx3ixc564gTdXRRWO4b6RKkh9KnQWGEEL1qKBqq_wofYMksV7PQ?key=V3p6bTZqZVlhQlVLakd1c29CR0xoNmVoeHcxVndn)
