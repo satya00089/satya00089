@@ -13,7 +13,7 @@ I build thoughtful web products for learning, system design, and cloud infrastru
   Each product image is an animated tile (e.g. assets/profile/learn-algo-tile.svg) with a glimmer that sweeps left to right.
   For a new card, make a tile the same way: embed its screenshot in an SVG and add the same sweep <rect>.
 -->
-<table width="100%">
+<table width="100%" border="0">
   <tr>
     <td width="32%" valign="top">
       <a href="https://learn-algo.com/"><img src="assets/profile/learn-algo-tile.svg" alt="Current Learn Algo homepage with its interactive algorithm visualizer" width="100%"></a>
