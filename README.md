@@ -7,36 +7,17 @@ I build thoughtful web products for learning, system design, and cloud infrastru
 ## Selected work
 
 <!--
-  Cards sit side by side in one row. Each card is a <td width="32%">, with a
-  <td width="2%"></td> spacer between cards. To add a card, copy one card cell,
-  place it after a spacer, and keep the widths summing to 100%.
-  Each product image is an animated tile (e.g. assets/profile/learn-algo-tile.svg) with a glimmer that sweeps left to right.
-  For a new card, make a tile the same way: embed its screenshot in an SVG and add the same sweep <rect>.
+  Each card is one animated SVG tile (assets/profile/<name>-tile.svg): screenshot, title,
+  description and a glimmer that sweeps across it. Tiles sit in a row with no table,
+  so GitHub adds no cell borders. To add a card, make a tile the same way and add an <a><img></a> here.
 -->
-<table width="100%" border="0">
-  <tr>
-    <td width="32%" valign="top">
-      <a href="https://learn-algo.com/"><img src="assets/profile/learn-algo-tile.svg" alt="Current Learn Algo homepage with its interactive algorithm visualizer" width="100%"></a>
-      <h3>Learn Algo</h3>
-      <p>An interactive way to explore algorithms, data structures, and machine learning—step through the logic and see how it works.</p>
-      <p><a href="https://learn-algo.com/">Live demo</a> · <a href="https://github.com/satya00089/learn-algo">Source code</a></p>
-    </td>
-    <td width="2%"></td>
-    <td width="32%" valign="top">
-      <a href="https://diagramwise.com/"><img src="assets/profile/diagramwise-tile.svg" alt="Current Diagramwise homepage showing its system design workspace" width="100%"></a>
-      <h3>Diagramwise</h3>
-      <p>Design system architectures, understand the trade-offs, and turn review feedback into stronger designs.</p>
-      <p><a href="https://diagramwise.com/">Live demo</a> · <a href="https://github.com/satya00089/diagrammatic">Source code</a></p>
-    </td>
-    <td width="2%"></td>
-    <td width="32%" valign="top">
-      <a href="https://orchestrator.next-zen.dev/"><img src="assets/profile/orchestrator-tile.svg" alt="Current Orchestrator homepage with its visual infrastructure planning experience" width="100%"></a>
-      <h3>Orchestrator</h3>
-      <p>Plan cloud infrastructure visually, review the resource graph, and export Terraform when the design is ready.</p>
-      <p><a href="https://orchestrator.next-zen.dev/">Live demo</a></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+<a href="https://learn-algo.com/"><img src="assets/profile/learn-algo-tile.svg" alt="Learn Algo: an interactive way to explore algorithms, data structures, and machine learning" width="31%"></a>
+<a href="https://diagramwise.com/"><img src="assets/profile/diagramwise-tile.svg" alt="Diagramwise: design system architectures and trade-offs" width="31%"></a>
+<a href="https://orchestrator.next-zen.dev/"><img src="assets/profile/orchestrator-tile.svg" alt="Orchestrator: visual cloud infrastructure planning and Terraform export" width="31%"></a>
+</p>
+
+<p align="center">Click a card for its live demo. Source code: <a href="https://github.com/satya00089/learn-algo">Learn Algo</a> · <a href="https://github.com/satya00089/diagrammatic">Diagramwise</a></p>
 
 ## A little about me
 
